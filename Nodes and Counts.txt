@@ -1,0 +1,89 @@
+['dancing, barrier', 5]
+
+['dancing, front', 11]
+
+['dancing, middle', 20]
+
+['dancing, back', 15]
+
+['dancing, balcony', 2]
+
+['socializing, barrier', 2]
+
+['socializing, front', 7]
+
+['socializing, middle', 17]
+
+['socializing, back', 12]
+
+['socializing, balcony', 2]
+
+['meet new people, barrier', 1]
+
+['meet new people, front', 6]
+
+['meet new people, middle', 11]
+
+['meet new people, back', 9]
+
+['meet new people, balcony', 1]
+
+['take photos, barrier', 4]
+
+['take photos, front', 10]
+
+['take photos, middle', 15]
+
+['take photos, back', 11]
+
+['take photos, balcony', 2]
+
+['social media, barrier', 4]
+
+['social media, front', 5]
+
+['social media, middle', 8]
+
+['social media, back', 7]
+
+['social media, balcony', 0]
+
+['headbanging, barrier', 3]
+
+['headbanging, front', 7]
+
+['headbanging, middle', 10]
+[
+'headbanging, back', 6]
+
+['headbanging, balcony', 2]
+
+['moshing, barrier', 2]
+
+['moshing, front', 8]
+
+['moshing, middle', 8]
+
+['moshing, back', 3]
+
+['drinking/drugs, barrier', 2]
+
+['drinking/drugs, front', 9]
+
+['drinking/drugs, middle', 17]
+
+['drinking/drugs, back', 13]
+
+['drinking/drugs, balcony', 2]
+
+['light shows, barrier', 1]
+
+['light shows, front', 6]
+
+['light shows, middle', 11]
+
+['light shows, back', 8]
+
+['light shows, balcony', 2]
+
+['buy merchandise', 15]

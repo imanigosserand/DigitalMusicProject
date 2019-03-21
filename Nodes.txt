@@ -1,0 +1,45 @@
+dancing, barrier
+dancing, front
+dancing, middle
+dancing, back
+dancing, balcony
+socializing, barrier
+socializing, front
+socializing, middle
+socializing, back
+socializing, balcony
+meet new people, barrier
+meet new people, front
+meet new people, middle
+meet new people, back
+meet new people, balcony
+take photos, barrier
+take photos, front
+take photos, middle
+take photos, back
+take photos, balcony
+social media, barrier
+social media, front
+social media, middle
+social media, back
+social media, balcony
+headbanging, barrier
+headbanging, front
+headbanging, middle
+headbanging, back
+headbanging, balcony
+moshing, barrier
+moshing, front
+moshing, middle
+moshing, back
+drinking/drugs, barrier
+drinking/drugs, front
+drinking/drugs, middle
+drinking/drugs, back
+drinking/drugs, balcony
+light shows, barrier
+light shows, front
+light shows, middle
+light shows, back
+light shows, balcony
+buy merchandise
